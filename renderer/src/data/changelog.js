@@ -5,14 +5,14 @@ export default {
             title: "Changes",
             type: "improved",
             items: [
-                "Startup no longer relies on Guild classes so it should be more stable."
+                "Rewrited project to Betterdiscord > Better X"
             ]
         },
         {
             title: "Fixes",
             type: "fixed",
             items: [
-                "Emote menu no longer crashes Discord."
+                "End"
             ]
         }
     ]
